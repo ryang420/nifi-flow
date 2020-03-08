@@ -1,6 +1,6 @@
 flows:
-  f498b00c-7a06-48b2-9130-61ffb7d8fc9d: {ver: 1, file: Nifi_Flows.snapshot, comments: 'First,
-      commit.', author: anonymous, created: 1583661557541, flowName: Nifi Flows, flowDesc: Nifi
-      Flows}
+  f498b00c-7a06-48b2-9130-61ffb7d8fc9d: {ver: 2, file: Nifi_Flows.snapshot, comments: Add
+      component, author: anonymous, created: 1583661709477, flowName: Nifi Flows,
+    flowDesc: Nifi Flows}
 layoutVer: 1
 bucketId: d16af967-7456-4945-b001-85edc108df3e
